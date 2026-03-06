@@ -8,7 +8,7 @@ A cute little static web app to calculate coffee ratios when your neurons are st
 - **Customizable Strength**: Select light, medium, or strong coffee strength with adorable animal emojis
 - **Automatic Calculations**: Get instant water-to-coffee ratio calculations
 - **Responsive Design**: Works on mobile and desktop devices
-- **Beautiful UI**: Warm color scheme with smooth animations
+- **Cute UI**: Warm color scheme with smooth animations
 
 ## How to Use
 
@@ -20,12 +20,14 @@ A cute little static web app to calculate coffee ratios when your neurons are st
 3. **Enter your coffee amount** (for Drip) or **water amount** (for French Press/Turkish)
 4. **See instant results** showing the perfect ratio and amounts needed
 
+To open the Web App, just go on: (manuasdf.github.io/CoffeeCalculator)[https://manuasdf.github.io/CoffeeCalculator/]
+
 ## Technical Details
 
 - **Pure HTML/CSS/JavaScript**: No framework dependencies
 - **Modern CSS**: Uses `:has()` selector for parent selection
 - **Responsive Grid Layout**: Adapts to different screen sizes
-- **Smooth Animations**: Subtle transitions and hover effects
+- **Simple Animations**: Subtle transitions and hover effects
 
 ## Customization
 
@@ -40,6 +42,8 @@ You can easily customize the app by modifying the CSS variables at the top of th
     --dark: #2F2F2F;         /* Dark text */
 }
 ```
+
+Maybe themes will be added in the future. 
 
 ## Browser Support
 
