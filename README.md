@@ -1,6 +1,8 @@
 # CoffeeCalculator
 
-A cute little static web app to calculate coffee ratios when your neurons are still asleep 🥱
+[![Open Coffee Calculator](https://img.shields.io/badge/Open-Coffee%20Calculator-%238B4513?style=for-the-badge&logo=coffee&labelColor=%23F5F5DC&color=%238B4513)](https://manuasdf.github.io/CoffeeCalculator/)
+
+A cute, little, static web app to calculate coffee ratios when your neurons are still asleep 🥱
 
 ## Features
 
@@ -20,7 +22,7 @@ A cute little static web app to calculate coffee ratios when your neurons are st
 3. **Enter your coffee amount** (for Drip) or **water amount** (for French Press/Turkish)
 4. **See instant results** showing the perfect ratio and amounts needed
 
-To open the Web App, just go on: (manuasdf.github.io/CoffeeCalculator)[https://manuasdf.github.io/CoffeeCalculator/]
+To open the Web App, just go on: [manuasdf.github.io/CoffeeCalculator](https://manuasdf.github.io/CoffeeCalculator/)
 
 ## Technical Details
 
